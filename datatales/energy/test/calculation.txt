@@ -1,0 +1,5 @@
+Product Name: WTI Crude Oil
+Date of Interest: 2022-07-26
+Current Intraday Range: 4.239999999999995
+Average Intraday Range (last 30 days): 5.448571428571428
+Comparison: 4.239999999999995 vs 5.448571428571428
