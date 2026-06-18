@@ -1,0 +1,23 @@
+# Core Data & ML
+numpy==2.2.6
+pandas==2.3.1
+torch==2.7.1
+transformers==4.54.1
+
+# Large Language Models & Frameworks
+openai==0.28.0
+python-dotenv==1.1.1
+langchain==0.3.27
+langchain-community==0.3.27
+langchain-chroma
+langchain-openai
+
+# Vector Stores & Retrieval
+sentence-transformers==5.1.0
+rank_bm25
+chromadb
+
+# NLP Utilities
+nltk==3.9.1
+spacy==3.8.7
+tqdm==4.67.1
